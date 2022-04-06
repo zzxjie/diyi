@@ -7,5 +7,7 @@ package com.nowcoder.community;
 public class hello {
     public void a(){
     System.out.println("zzx");
+        System.out.println("1");
+        System.out.println("2");
 }
 }
